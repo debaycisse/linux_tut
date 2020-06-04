@@ -4,5 +4,5 @@
 
 
 ### To view these codes and their output files
-##### > Clone this repo to a linux system and
-#### > Use cat command to view each one of these files that are prefixed with the word,  'prac'
+###### > Clone this repo to a linux system and
+###### > Use cat command to view each one of these files that are prefixed with the word,  'prac'
