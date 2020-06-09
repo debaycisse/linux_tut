@@ -1,0 +1,454 @@
+Script started on 2020-06-09 05:18:31+0100
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # Environment v[KVara[Kiable
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # To loou[Kkup com[K[K[Kenvironment variable
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ env
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LANG=en_US.UTF-8
+GDM_LANG=en_US
+DISPLAY=:0
+OLDPWD=/home/azeez
+GTK_OVERLAY_SCROLLING=1
+COLORTERM=truecolor
+DESKTOP_AUTOSTART_ID=10a5638427387d30f9159167545683411000000019750023
+XDG_VTNR=7
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+MANDATORY_PATH=/usr/share/gconf/cinnamon2d.mandatory.path
+XDG_SESSION_ID=c2
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/azeez
+USER=azeez
+DESKTOP_SESSION=cinnamon2d
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/4be79bee_7b38_45dd_b12d_ae3686555c16
+DEFAULTS_PATH=/usr/share/gconf/cinnamon2d.default.path
+QT_QPA_PLATFORMTHEME=qt5ct
+PWD=/home/azeez/Documents/linux_sysadmin_tuts
+HOME=/home/azeez
+SSH_AGENT_PID=2043
+QT_ACCESSIBILITY=1
+XDG_SESSION_TYPE=x11
+XDG_DATA_DIRS=/usr/share/cinnamon2d:/usr/share/gnome:/home/azeez/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+XDG_SESSION_DESKTOP=cinnamon2d
+GTK_MODULES=gail:atk-bridge
+VTE_VERSION=5202
+SHELL=/bin/bash
+TERM=xterm-256color
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_CURRENT_DESKTOP=X-Cinnamon
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GNOME_TERMINAL_SERVICE=:1.101
+SHLVL=2
+XDG_SEAT=seat0
+LANGUAGE=en_US
+GDMSESSION=cinnamon2d
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+LOGNAME=azeez
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+XDG_RUNTIME_DIR=/run/user/1000
+XAUTHORITY=/home/azeez/.Xauthority
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon2d:/etc/xdg
+PATH=/home/azeez/Downloads/google-cloud-sdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+SESSION_MANAGER=local/azeez-Latitude-E5410:@/tmp/.ICE-unix/1975,unix/azeez-Latitude-E5410:/tmp/.ICE-unix/1975
+LESSOPEN=| /usr/bin/lesspipe %s
+_=/usr/bin/env
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ echo $ [KHOME
+/home/azeez
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls ../../[K[K[K[K[K[K-l ~
+total 36
+drwxr-xr-x 5 azeez azeez 4096 Jun  7 11:57 [0m[01;34mDesktop[0m
+drwxr-xr-x 9 azeez azeez 4096 Jun  7 20:44 [01;34mDocuments[0m
+drwxr-xr-x 3 azeez azeez 4096 Jun  7 11:57 [01;34mDownloads[0m
+drwxr-xr-x 2 azeez azeez 4096 Dec 13 10:47 [01;34mMusic[0m
+drwxr-xr-x 3 azeez azeez 4096 Jun  1 20:47 [01;34mPictures[0m
+drwxr-xr-x 2 azeez azeez 4096 Dec 13 10:47 [01;34mPublic[0m
+drwxr-xr-x 2 azeez azeez 4096 Dec 13 10:47 [01;34mTemplates[0m
+-rw-r--r-- 1 azeez azeez  649 Mar  8 17:37 typescript
+drwxr-xr-x 3 azeez azeez 4096 May 29 20:42 [01;34mVideos[0m
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls -l ~[Ca ~[C[C
+total 280
+drwxr-xr-x 28 azeez azeez  4096 Jun  9 05:04 [0m[01;34m.[0m
+drwxr-xr-x  3 root  root   4096 Dec 13 10:39 [01;34m..[0m
+drwxr-xr-x  3 azeez azeez  4096 May 29 20:41 [01;34m.anydesk[0m
+drwx------  2 azeez azeez  4096 Feb 15 11:27 [01;34m.aptitude[0m
+-rw-------  1 azeez azeez 17647 Jun  9 05:02 .bash_history
+-rw-r--r--  1 azeez azeez   220 Dec 13 10:39 .bash_logout
+-rw-r--r--  1 azeez azeez  4165 Dec 13 11:58 .bashrc
+-rw-r--r--  1 azeez azeez  3771 Dec 13 11:58 .bashrc.backup
+-rw-------  1 azeez azeez 20034 Dec 13 11:41 .boto
+drwx------ 19 azeez azeez  4096 Jun  1 19:39 [01;34m.cache[0m
+drwxrwxr-x  5 azeez azeez  4096 Dec 14 07:30 [01;34m.cinnamon[0m
+drwxr-xr-x 24 azeez azeez  4096 Jun  1 19:52 [01;34m.config[0m
+drwxr-xr-x  5 azeez azeez  4096 Jun  7 11:57 [01;34mDesktop[0m
+-rw-r--r--  1 azeez azeez    29 May 29 05:02 .dmrc
+drwxr-xr-x  9 azeez azeez  4096 Jun  7 20:44 [01;34mDocuments[0m
+drwxr-xr-x  3 azeez azeez  4096 Jun  7 11:57 [01;34mDownloads[0m
+drwx------  2 azeez azeez  4096 Dec 13 10:47 [01;34m.gconf[0m
+drwxr-xr-x 24 azeez azeez  4096 Jun  1 20:47 [01;34m.gimp-2.8[0m
+-rw-r--r--  1 azeez azeez    56 May 28 06:27 .gitconfig
+drwx------  3 azeez azeez  4096 Apr 29 15:04 [01;34m.gnome[0m
+drwx------  3 azeez azeez  4096 Dec 13 10:47 [01;34m.gnupg[0m
+drwxr-xr-x  2 azeez azeez  4096 Dec 14 08:00 [01;34m.gphoto[0m
+-rw-r--r--  1 azeez azeez   245 May 25 12:44 .gtkrc-2.0
+-rw-r--r--  1 azeez azeez   516 Dec 13 10:39 .gtkrc-xfce
+-rw-------  1 azeez azeez 15330 Jun  9 05:04 .ICEauthority
+drwxrwxr-x  3 azeez azeez  4096 May 25 12:47 [01;34m.icons[0m
+drwxr-xr-x  4 azeez azeez  4096 Dec 14 07:10 [01;34m.kube[0m
+-rw-------  1 azeez azeez   161 May 28 06:06 .lesshst
+drwxrwxr-x  3 azeez azeez  4096 May 28 04:09 [01;34m.linuxmint[0m
+drwx------  3 azeez azeez  4096 Dec 13 10:47 [01;34m.local[0m
+drwx------  5 azeez azeez  4096 Dec 13 12:28 [01;34m.mozilla[0m
+drwxr-xr-x  2 azeez azeez  4096 Dec 13 10:47 [01;34mMusic[0m
+drwxr-xr-x  3 azeez azeez  4096 Jun  1 20:47 [01;34mPictures[0m
+drwx------  3 azeez azeez  4096 Apr 29 15:02 [01;34m.pki[0m
+-rw-r--r--  1 azeez azeez   807 Dec 13 10:39 .profile
+drwxr-xr-x  2 azeez azeez  4096 Dec 13 10:47 [01;34mPublic[0m
+-rw-------  1 azeez azeez 20954 Jun  5 05:36 .python_history
+-rw-r--r--  1 azeez azeez     0 Dec 13 11:28 .sudo_as_admin_successful
+drwxr-xr-x  2 azeez azeez  4096 Dec 13 10:47 [01;34mTemplates[0m
+drwxrwxr-x  2 azeez azeez  4096 May 25 12:44 [01;34m.themes[0m
+drwx------  3 azeez azeez  4096 Jun  1 19:39 [01;34m.thumbnails[0m
+-rw-r--r--  1 azeez azeez   649 Mar  8 17:37 typescript
+drwxr-xr-x  3 azeez azeez  4096 May 29 20:42 [01;34mVideos[0m
+-rw-------  1 azeez azeez  3298 May 26 13:32 .viminfo
+-rw-r--r--  1 azeez azeez   173 Feb  1 13:10 .wget-hsts
+-rw-------  1 azeez azeez    65 Jun  9 05:04 .Xauthority
+-rw-rw-r--  1 azeez azeez   131 May 28 04:09 .xinputrc
+-rw-------  1 azeez azeez 11424 Jun  9 05:16 .xsession-errors
+-rw-------  1 azeez azeez 10503 Jun  9 05:02 .xsession-errors.old
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls -la ~ | grep profile$
+-rw-r--r--  1 azeez azeez   807 Dec 13 10:39 .[01;31m[Kprofile[m[K
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # > saving output of command into a file
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # < inputting file content as input foi[Kr a command
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date > saved_c[Kdate.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ cat saved_date.txt 
+Tue Jun  9 05:23:06 WAT 2020
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ cat saved_date.txt 
+Tue Jun  9 05:23:06 WAT 2020
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ cat saved_date.txt date > saved_date.txt# < inputting file content as input for a command[28Pdate > saved_date.txt[C[C[C[C[C> saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date >> saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date >> saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ cat saved_date.txt 
+Tue Jun  9 05:23:06 WAT 2020
+Tue Jun  9 05:23:40 WAT 2020
+Tue Jun  9 05:23:42 WAT 2020
+Tue Jun  9 05:23:44 WAT 2020
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%d
+09
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%d[Km
+06
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%m[Ky
+20
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date "%d"+"%d"[C[C[C[C
+09
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +""%"d"%"m"
+0906
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +""%"d"|"%"m"|"%"y"[C
+09|06|20
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +"%d|%m|%y"y"[C
+09|06|20y
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +"%d|%m|%yy"%y"[C[C
+09|06|2020
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%Y
+2020
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%M
+26
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%s
+1591676863
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%s[KS
+46
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%S
+50
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%S
+53
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date %H
+date: invalid date ‘%H’
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date %H[Kh
+date: invalid date ‘%h’
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date %h[C+%h
+Jun
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%h[KH
+05
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%Y-%m[Kh-%d
+2020-Jun-09
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [K]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ date +%Y-%h-%d ` [1@`[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C. t x t [C # using whatever the command in between tilder produces as a filename .txt
+2020-Jun-09.txt: command not found
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ `date +%Y-%h-%d`.txt  # using whatever the command in between tilder produces as a filename .txt#`.txt  # using whatever the command in between tilder produces as a filename .txt [A]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"`.txt  # using whatever the command in between tilder produces as a filename .txt [A]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"%Y-%h-%d"`.txt  # using whatever the command in between tilder produces as a filename .txtt[A]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+2020-Jun-09.txt: command not found
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ LA
+LA: command not found
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls
+linux_command  README.md  saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ lsLA`date +"%Y-%h-%d"`.txt  # using whatever the command in between tilder produces as a filename .txtt[A]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ [C[C[C[C[C[C[C[1P%Y-%h-%d`.txt  # using whatever the command in between tilder produces as a filename .txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+2020-Jun-09.txt: command not found
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ `date +%Y-%h-%d`.txt[1@t[1@o[1@u[1@c[1@h[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls
+2020-Jun-09.txt  linux_command  README.md  saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ lstouch `date +%Y-%h-%d`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt[1P`.txt+`.txt `.txt"`.txt"`.txt%"`.txtd"`.txt-"`.txt%"`.txtm"`.txt-"`.txt[1P"`.txt_"`.txt_"`.txt[1P"`.txt%"`.txth"`.txt-"`.txt%"`.txtm"`.txt[1P"`.txtM"`.txt[1P-%M"`.txtH-%M"`.txt[C[C[C[C[C[C[C[C[C
+date: extra operand ‘%d-%m_%H-%M’
+Try 'date --help' for more information.
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ touch `date + "%d-%m_%H-%M"`.txt[1P%H-%M"`.txt-%H-%M"`.txt[C[C[C[C[C[C[C[C[C[C[C
+date: extra operand ‘%d-%m-%H-%M’
+Try 'date --help' for more information.
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ touch `date + "%d-%m-%H-%M"`.txt[1P%H-%M"`.txt[1P%H-%M"`.txt[1PH-%M"`.txt[1P%H-%M"`.txt[1P%H-%M"`.txt[1PH-%M"`.txt[1P"%H-%M"`.txt[C "%d-%m_%H-%M"`.txt[C[1P"%d-%m_%H-%M"`.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls
+09-06_05-37.txt  2020-Jun-09.txt  linux_command  README.md  saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ lstouch `date +"%d-%m_%H-%M"`.txtA"`.txtM"`.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ touch `date +"%d-%m_%H-%MAM"`.txtls[K
+09-06_05-37.txt  09-06_05-38AM.txt  2020-Jun-09.txt  linux_command  README.md  saved_date.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ Ma[K[K# MAnual PAges
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ sss[K[K[Kman date
+[?1049h[22;0;0t[?1h=DATE(1)                                                               User Commands                                                               DATE(1)[m
+[m
+[1mNAME[0m[m
+       date - print or set the system date and time[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdate[0m [[4mOPTION[24m]... [[4m+FORMAT[24m][m
+       [1mdate[0m [[4m-u|--utc|--universal[24m] [[4mMMDDhhmm[24m[[[4mCC[24m][4mYY[24m][[4m.ss[24m]][m
+[m
+[1mDESCRIPTION[0m[m
+       Display the current time in the given FORMAT, or set the system date.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-d[0m, [1m--date[0m=[4mSTRING[24m[m
+              display time described by STRING, not 'now'[m
+[m
+       [1m--debug[0m[m
+              annotate the parsed date, and warn about questionable usage to stderr[m
+[m
+       [1m-f[0m, [1m--file[0m=[4mDATEFILE[24m[m
+              like [1m--date[0m; once for each line of DATEFILE[m
+[m
+       [1m-I[FMT][0m, [1m--iso-8601[0m[=[4mFMT[24m][m
+              output  date/time  in ISO 8601 format.  FMT='date' for date only (the default), 'hours', 'minutes', 'seconds', or 'ns' for date and time to[m
+              the indicated precision.  Example: 2006-08-14T02:34:56-06:00[m
+[m
+       [1m-R[0m, [1m--rfc-email[0m[m
+              output date and time in RFC 5322 format.  Example: Mon, 14 Aug 2006 02:34:56 [1m-0600[0m[m
+[m
+       [1m--rfc-3339[0m=[4mFMT[24m[m
+              output date/time in RFC 3339 format.  FMT='date', 'seconds', or 'ns' for date and time to the  indicated  precision.   Example:  2006-08-14[m
+              02:34:56-06:00[m
+[m
+[7m Manual page date(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-r[0m, [1m--reference[0m=[4mFILE[24m[m
+[7m Manual page date(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              display the last modification time of FILE[m
+[7m Manual page date(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-s[0m, [1m--set[0m=[4mSTRING[24m[m
+[7m Manual page date(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              set time described by STRING[m
+[7m Manual page date(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-u[0m, [1m--utc[0m, [1m--universal[0m[m
+[7m Manual page date(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              print or set Coordinated Universal Time (UTC)[m
+[7m Manual page date(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--help[0m display this help and exit[m
+[7m Manual page date(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--version[0m[m
+[7m Manual page date(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              output version information and exit[m
+[7m Manual page date(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       FORMAT controls the output.  Interpreted sequences are:[m
+[7m Manual page date(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %%     a literal %[m
+[7m Manual page date(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %a     locale's abbreviated weekday name (e.g., Sun)[m
+[7m Manual page date(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %A     locale's full weekday name (e.g., Sunday)[m
+[7m Manual page date(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %b     locale's abbreviated month name (e.g., Jan)[m
+[7m Manual page date(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %B     locale's full month name (e.g., January)[m
+[7m Manual page date(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %c     locale's date and time (e.g., Thu Mar  3 23:05:25 2005)[m
+[7m Manual page date(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %C     century; like %Y, except omit last two digits (e.g., 20)[m
+[7m Manual page date(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %d     day of month (e.g., 01)[m
+[7m Manual page date(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %D     date; same as %m/%d/%y[m
+[7m Manual page date(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %e     day of month, space padded; same as %_d[m
+[7m Manual page date(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %F     full date; same as %Y-%m-%d[m
+[7m Manual page date(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %g     last two digits of year of ISO week number (see %G)[m
+[7m Manual page date(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %G     year of ISO week number (see %V); normally useful only with %V[m
+[7m Manual page date(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %h     same as %b[m
+[7m Manual page date(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %H     hour (00..23)[m
+[7m Manual page date(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %I     hour (01..12)[m
+[7m Manual page date(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %j     day of year (001..366)[m
+[7m Manual page date(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %k     hour, space padded ( 0..23); same as %_H[m
+[7m Manual page date(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %l     hour, space padded ( 1..12); same as %_I[m
+[7m Manual page date(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %m     month (01..12)[m
+[7m Manual page date(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %M     minute (00..59)[m
+[7m Manual page date(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %n     a newline[m
+[7m Manual page date(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %N     nanoseconds (000000000..999999999)[m
+[7m Manual page date(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %p     locale's equivalent of either AM or PM; blank if not known[m
+[7m Manual page date(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %P     like %p, but lower case[m
+[7m Manual page date(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %q     quarter of year (1..4)[m
+[7m Manual page date(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %r     locale's 12-hour clock time (e.g., 11:11:04 PM)[m
+[7m Manual page date(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %R     24-hour hour and minute; same as %H:%M[m
+[7m Manual page date(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %s     seconds since 1970-01-01 00:00:00 UTC[m
+[7m Manual page date(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %S     second (00..60)[m
+[7m Manual page date(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %t     a tab[m
+[7m Manual page date(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %T     time; same as %H:%M:%S[m
+[7m Manual page date(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %u     day of week (1..7); 1 is Monday[m
+[7m Manual page date(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %U     week number of year, with Sunday as first day of week (00..53)[m
+[7m Manual page date(1) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %V     ISO week number, with Monday as first day of week (01..53)[m
+[7m Manual page date(1) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %w     day of week (0..6); 0 is Sunday[m
+[7m Manual page date(1) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %W     week number of year, with Monday as first day of week (00..53)[m
+[7m Manual page date(1) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %x     locale's date representation (e.g., 12/31/99)[m
+[7m Manual page date(1) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %X     locale's time representation (e.g., 23:13:48)[m
+[7m Manual page date(1) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %y     last two digits of year (00..99)[m
+[7m Manual page date(1) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %Y     year[m
+[7m Manual page date(1) line 98 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page date(1) line 99 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       %z     +hhmm numeric time zone (e.g., [1m-0400[0m)[m
+[7m Manual page date(1) line 100 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # man gives info abt command
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ man 2 date   # goes to page s [K[Ks[K2 of the manual pages go[K[Kfo[K[K[K[K foe [K[Kr date
+No manual entry for date in section 2
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ man 2 time
+[?1049h[22;0;0t[?1h=TIME(2)                                                         Linux Programmer's Manual                                                         TIME(2)[m
+[m
+[1mNAME[0m[m
+       time - get time in seconds[m
+[m
+[1mSYNOPSIS[0m[m
+       [1m#include[0m [1m<time.h>[0m[m
+[m
+       [1mtime_t[0m [1mtime(time_t[0m [1m*[0m[4mtloc[24m[1m);[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mtime[0m() returns the time as the number of seconds since the Epoch, 1970-01-01 00:00:00 +0000 (UTC).[m
+[m
+       If [4mtloc[24m is non-NULL, the return value is also stored in the memory pointed to by [4mtloc[24m.[m
+[m
+[1mRETURN[0m [1mVALUE[0m[m
+       On success, the value of time in seconds since the Epoch is returned.  On error, [4m((time_t)[24m [4m-1)[24m is returned, and [4merrno[24m is set appropriately.[m
+[m
+[1mERRORS[0m[m
+       [1mEFAULT[0m [4mtloc[24m points outside your accessible address space (but see BUGS).[m
+[m
+              On systems where the C library [1mtime[0m() wrapper function invokes an implementation provided by the [1mvdso[0m(7) (so that there is no trap into the[m
+              kernel), an invalid address may instead trigger a [1mSIGSEGV[0m signal.[m
+[m
+[1mCONFORMING[0m [1mTO[0m[m
+       SVr4, 4.3BSD, C89, C99, POSIX.1-2001.  POSIX does not specify any error conditions.[m
+[m
+[1mNOTES[0m[m
+       POSIX.1 defines [4mseconds[24m [4msince[24m [4mthe[24m [4mEpoch[24m using a formula that approximates the number of seconds between a specified time and the Epoch.  This for‐[m
+       mula  takes  account of the facts that all years that are evenly divisible by 4 are leap years, but years that are evenly divisible by 100 are not[m
+       leap years unless they are also evenly divisible by 400, in which case they are leap years.  This value is not the same as the  actual  number  of[m
+       seconds between the time and the Epoch, because of leap seconds and because system clocks are not required to be synchronized to a standard refer‐[m
+       ence.  The intention is that the interpretation of seconds since the Epoch values be consistent; see POSIX.1-2008  Rationale  A.4.15  for  further[m
+       rationale.[m
+[7m Manual page time(2) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ man 3 time
+[?1049h[22;0;0t[?1h=TIME(3am)                                                       GNU Awk Extension Modules                                                       TIME(3am)[m
+[m
+[1mNAME[0m[m
+       time - time functions for gawk[m
+[m
+[1mSYNOPSIS[0m[m
+       @load "time"[m
+[m
+       time = gettimeofday()[m
+       ret = sleep(amount)[m
+[m
+[1mDESCRIPTION[0m[m
+       The [4mtime[24m extension adds two functions named [1mgettimeofday()[0m and [1msleep()[0m, as follows.[m
+[m
+       [1mgettimeofday()[0m[m
+              This  function  returns the number of seconds since the Epoch as a floating-point value. It should have subsecond precision.  It returns -1[m
+              upon error and sets [1mERRNO[0m to indicate the problem.[m
+[m
+       [1msleep([0m[4mseconds[24m[1m)[0m[m
+              This function attempts to sleep for the given amount of seconds, which may include a fractional portion.  If [4mseconds[24m is  negative,  or  the[m
+              attempt to sleep fails, then it returns -1 and sets [1mERRNO[0m.  Otherwise, the function should return 0 after sleeping for the indicated amount[m
+              of time.[m
+[m
+[1mEXAMPLE[0m[m
+       @load "time"[m
+       ...[m
+       printf "It is now %g seconds since the Epoch\n", gettimeofday()[m
+       printf "Pausing for a while... " ; sleep(2.5) ; print "done"[m
+[m
+[1mSEE[0m [1mALSO[0m[m
+       [4mGAWK:[24m [4mEffective[24m [4mAWK[24m [4mProgramming[24m, [4mfilefuncs[24m(3am), [4mfnmatch[24m(3am), [4mfork[24m(3am), [4minplace[24m(3am), [4mordchr[24m(3am), [4mreaddir[24m(3am), [4mreadfile[24m(3am),  [4mrevoutput[24m(3am),[m
+       [4mrwarray[24m(3am).[m
+[m
+       [4mgettimeofday[24m(2), [4mnanosleep[24m(2), [4mselect[24m(2).[m
+[7m Manual page time(3am) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # File management
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ rm saved_date.txt 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ mv 09-06_05-37.txt 09-06_05-37_renamed.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # using touch cmd, a new file can be creatred[K[K[Ked
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ touch newfile.txt
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls -l
+total 56
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:37 09-06_05-37_renamed.txt
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:38 09-06_05-38AM.txt
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:34 2020-Jun-09.txt
+-rw-r--r-- 1 azeez azeez 49152 Jun  9 05:40 linux_command
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:42 newfile.txt
+-rw-r--r-- 1 azeez azeez   405 Jun  5 05:19 README.md
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$  [K# inlink [K[K[K[K[K[K[Kunlink cm[Kmd is used to file[K[K[K[Kremove file as well as rm
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ unlink 09-06_05-37_renamed.txt 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ ls -l
+total 56
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:38 09-06_05-38AM.txt
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:34 2020-Jun-09.txt
+-rw-r--r-- 1 azeez azeez 49152 Jun  9 05:40 linux_command
+-rw-r--r-- 1 azeez azeez     0 Jun  9 05:42 newfile.txt
+-rw-r--r-- 1 azeez azeez   405 Jun  5 05:19 README.md
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # edii[Kting files
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # nano
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # i[Kvim[K[K[Kcat - todisplay content of a file
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # search [K[K[K[K[K[K[K[K[K
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ git commit -m ""d"a"t"e" "`"`"[C[C[1P"[1P"[1P"`date"[C[C[C[C`" `"+`"'`"'`"%'`"d'`"-'`"%'`"m'`"|'`"
