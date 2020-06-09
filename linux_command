@@ -451,4 +451,16 @@ total 56
 ]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # i[Kvim[K[K[Kcat - todisplay content of a file
 ]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ # search [K[K[K[K[K[K[K[K[K
 ]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ 
-]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ git commit -m ""d"a"t"e" "`"`"[C[C[1P"[1P"[1P"`date"[C[C[C[C`" `"+`"'`"'`"%'`"d'`"-'`"%'`"m'`"|'`"
+]0;azeez@azeez-Latitude-E5410: ~/Documents/linux_sysadmin_tuts[01;32mazeez@azeez-Latitude-E5410[00m:[01;34m~/Documents/linux_sysadmin_tuts[00m$ git commit -m ""d"a"t"e" "`"`"[C[C[1P"[1P"[1P"`date"[C[C[C[C`" `"+`"'`"'`"%'`"d'`"-'`"%'`"m'`"|'`"Script started on 2020-06-09 12:19:38+0100
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # File system basic
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ H[K# How [K[K[K[KWhat is the purpose of the file system?
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # How much space doet [K[Ks the disk really have?
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # How do I knmow [K[K[K[Koe=[Kw[K[Kw what disks I have ?
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ exit
+exit
+
+Script done on 2020-06-09 14:19:32+0100
