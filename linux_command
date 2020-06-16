@@ -472,3 +472,176 @@ Script started on 2020-06-11 13:07:30+01:00 [TERM="xterm-256color" TTY="/dev/pts
 exit
 
 Script done on 2020-06-11 15:13:52+01:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2020-06-16 10:52:35+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="140" LINES="12"]
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ t[K# to [K[K[K[K[K# to build partitions
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # use fdisk utilitycutilitymutilitydutility utility[C[C[C[C[C[C[C
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ #[K
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # to check list of partition, see [K[K[K[K[K[K, using fdisk...see th bel[K[K[K[Ke below cmd
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ fdisk -l
+fdisk: cannot open /dev/loop0: Permission denied
+fdisk: cannot open /dev/loop1: Permission denied
+fdisk: cannot open /dev/loop2: Permission denied
+fdisk: cannot open /dev/loop3: Permission denied
+fdisk: cannot open /dev/loop4: Permission denied
+fdisk: cannot open /dev/loop5: Permission denied
+fdisk: cannot open /dev/loop6: Permission denied
+fdisk: cannot open /dev/loop7: Permission denied
+fdisk: cannot open /dev/sda: Permission denied
+fdisk: cannot open /dev/loop8: Permission denied
+fdisk: cannot open /dev/loop9: Permission denied
+fdisk: cannot open /dev/loop10: Permission denied
+fdisk: cannot open /dev/loop11: Permission denied
+fdisk: cannot open /dev/loop12: Permission denied
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ fdisk -l[1@s[1@u[1@d[1@o[1@ 
+[sudo] password for azeez: 
+[1mDisk /dev/loop0: 54.97 MiB, 57614336 bytes, 112528 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop1: 97.1 MiB, 101724160 bytes, 198680 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop2: 260.73 MiB, 273375232 bytes, 533936 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop3: 240.82 MiB, 252493824 bytes, 493152 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop4: 255.58 MiB, 267980800 bytes, 523400 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop5: 62.9 MiB, 65105920 bytes, 127160 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop6: 49.8 MiB, 52203520 bytes, 101960 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop7: 339.76 MiB, 356241408 bytes, 695784 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/sda: 931.53 GiB, 1000204886016 bytes, 1953525168 sectors
+[0mDisk model: TOSHIBA MQ02ABD1
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disklabel type: gpt
+Disk identifier: 04B46667-A6EB-49B2-83C4-84D9A6C53180
+
+[1mDevice[0m     [1m     Start[0m [1m       End[0m [1m   Sectors[0m [1m  Size[0m [1mType[0m
+/dev/sda1        2048    1023999    1021952   499M Windows recovery environment
+/dev/sda2     1024000    1228799     204800   100M EFI System
+/dev/sda3     1228800    1261567      32768    16M Microsoft reserved
+/dev/sda4     1261568 1428051725 1426790158 680.4G Microsoft basic data
+/dev/sda5  1428051968 1429231615    1179648   576M Windows recovery environment
+/dev/sda6  1429231616 1953523711  524292096   250G Linux filesystem
+
+
+
+
+[1mDisk /dev/loop8: 49.8 MiB, 52203520 bytes, 101960 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop9: 54.97 MiB, 57618432 bytes, 112536 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop10: 62.23 MiB, 65245184 bytes, 127432 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop11: 27.9 MiB, 28405760 bytes, 55480 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop12: 30.29 MiB, 31756288 bytes, 62024 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # to know available fils[Kesystem in linux
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # mkfs ,[K<ab[K[Kta[K[K[Kand press tab twicebtwiceutwice[Ctwice[Ctwiceotwicentwice twice[C[C[C[C[C
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ 
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ # filesyst[K[K[K[K[K[K[K[K[K[Kmkfs
+mkfs         mkfs.cramfs  mkfs.ext3    mkfs.fat     mkfs.msdos   mkfs.vfat    
+mkfs.bfs     mkfs.ext2    mkfs.ext4    mkfs.minix   mkfs.ntfs    
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ mkfs[K[K[K[K# as you can see, above aret he[K[K[K[K the[Ke available filesystem on this linux machine
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ ls
+09-06_05-38AM.txt  2020-Jun-09.txt  linux_command  newfile.txt  README.md
+]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ vim README.md 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"README.md" 8L, 405C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35m#[m[35m This is my jotter for Linux SysAdmin Course[m
+[35m####[m[35m The source link is https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m
+[35m####[m[35m In this repo, there are numerous files with practice linux command codes and outputs.[m
+
+
+[35m###[m[35m To view these codes and their output files[m
+[35m######[m[35m > Clone this repo to a linux system and[m
+[35m######[m[35m > Use cat command to view each one of these files that are prefixed with the word,  'prac'[m
+[94m~                                                                                                                                           [10;1H~                                                                                                                                           [11;1H~                                                                                                                                           [m[12;123H1,1[11CAll[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[38;5;224m#[m[38;5;225m This is my jotter for Linux SysAdmin Course[m
+[38;5;224m####[m[38;5;225m The source link is https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m
+[38;5;224m####[m[38;5;225m In this repo, there are numerous files with practice linux command codes and outputs.[m
+
+
+[38;5;224m###[m[38;5;225m To view these codes and their output files[m
+[38;5;224m######[m[38;5;225m > Clone this repo to a linux system and[m
+[38;5;224m######[m[38;5;225m > Use cat command to view each one of these files that are prefixed with the word,  'prac'[m
+[94m~                                                                                                                                           [10;1H~                                                                                                                                           [11;1H~                                                                                                                                           [m[12;123H1,1[11CAll"README.md" 8L, 405C[1;1H[?25h[?25l[12;113H~@k[1;1H[12;113H   [2;1H[12;123H2[2;1H[?25h[?25l[12;113H~@k[2;1H[12;113H   [3;1H[12;123H3[3;1H[?25h[?25l[12;113H~@k[3;1H[12;113H   [4;1H[12;123H4,0-1[4;1H[?25h[?25l[12;113H~@k[4;1H[12;113H   [5;1H[12;123H5[5;1H[?25h[?25l[12;113H~@k[5;1H[12;113H   [6;1H[12;123H6,1  [6;1H[?25h[?25l[12;113H~@k[6;1H[12;113H   [7;1H[12;123H7[7;1H[?25h[?25l[12;113H~@k[7;1H[12;113H   [8;1H[12;123H8[8;1H[?25h[?25l[12;113H~@k[8;1H[12;113H   [8;1H[?25h[?25l[12;113H~@k[8;1H[12;113H   [8;1H[?25h[?25l[12;113H~@k[8;1H[12;113H   [8;1H[?25h[?25l[12;113H~@k[8;1H[12;113H   [7;1H[12;123H7[7;1H[?25h[?25l[12;113H~@k[7;1H[12;113H   [6;1H[12;123H6[6;1H[?25h[?25l[12;113H~@k[6;1H[12;113H   [5;1H[12;123H5,0-1[5;1H[?25h[?25l[12;113H~@k[5;1H[12;113H   [4;1H[12;123H4[4;1H[?25h[?25l[12;113H~@k[4;1H[12;113H   [3;1H[12;123H3,1  [3;1H[?25h[?25l[12;113H~@k[3;1H[12;113H   [2;1H[12;123H2[2;1H[?25h[?25l[12;113H~@k[2;1H[12;113H   [2;2H[12;125H2[2;2H[?25h[?25l[12;113H~@k[2;2H[12;113H   [2;3H[12;125H3[2;3H[?25h[?25l[12;113H~@k[2;3H[12;113H   [2;4H[12;125H4[2;4H[?25h[?25l[12;113H~@k[2;4H[12;113H   [2;5H[12;125H5[2;5H[?25h[?25l[12;113H~@k[2;5H[12;113H   [2;6H[12;125H6[2;6H[?25h[?25l[12;113H~@k[2;6H[12;113H   [2;7H[12;125H7[2;7H[?25h[?25l[12;113H~@k[2;7H[12;113H   [2;8H[12;125H8[2;8H[?25h[?25l[12;113H~@k[2;8H[12;113H   [2;9H[12;125H9[2;9H[?25h[?25l[12;113H~@k[2;9H[12;113H   [2;10H[12;125H10[2;10H[?25h[?25l[12;113H~@k[2;10H[12;113H   [2;11H[12;126H1[2;11H[?25h[?25l[12;113H~@k[2;11H[12;113H   [2;12H[12;126H2[2;12H[?25h[?25l[12;113H~@k[2;12H[12;113H   [2;13H[12;126H3[2;13H[?25h[?25l[12;113H~@k[2;13H[12;113H   [2;14H[12;126H4[2;14H[?25h[?25l[12;113H~@k[2;14H[12;113H   [2;15H[12;126H5[2;15H[?25h[?25l[12;113H~@k[2;15H[12;113H   [2;16H[12;126H6[2;16H[?25h[?25l[12;113H~@k[2;16H[12;113H   [2;17H[12;126H7[2;17H[?25h[?25l[12;113H~@k[2;17H[12;113H   [2;18H[12;126H8[2;18H[?25h[?25l[12;113H~@k[2;18H[12;113H   [2;19H[12;126H9[2;19H[?25h[?25l[12;113H~@k[2;19H[12;113H   [2;20H[12;125H20[2;20H[?25h[?25l[12;113H~@k[2;20H[12;113H   [2;21H[12;126H1[2;21H[?25h[?25l[12;113H~@k[2;21H[12;113H   [2;22H[12;126H2[2;22H[?25h[?25l[12;113H~@k[2;22H[12;113H   [2;23H[12;126H3[2;23H[?25h[?25l[12;113H~@k[2;23H[12;113H   [2;24H[12;126H4[2;24H[?25h[?25l[12;113H~@k[2;24H[12;113H   [2;23H[12;126H3[2;23H[?25h[?25l[12;113Hi[2;23H[12;113H [2;23H[12;1H[1m-- INSERT --[m[12;13H[K[12;123H2,23[10CAll[2;23H[?25h[?25l[12;126H4[2;24H[?25h[?25l[12;126H5[2;25H[?25h[?25l[38;5;225mttps://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;73H[K[2;25H[?25h[?25l[1C[38;5;225mps://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;72H[K[2;25H[?25h[?25l[38;5;225mps://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;71H[K[2;25H[?25h[?25l[38;5;225ms://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;70H[K[2;25H[?25h[?25l[38;5;225m://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;69H[K[2;25H[?25h[?25l[38;5;225m//www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;68H[K[2;25H[?25h[?25l[1C[38;5;225mwww.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;67H[K[2;25H[?25h[?25l[38;5;225mwww.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;66H[K[2;25H[?25h[?25l[2C[38;5;225m.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;65H[K[2;25H[?25h[?25l[1C[38;5;225m.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;64H[K[2;25H[?25h[?25l[38;5;225m.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;63H[K[2;25H[?25h[?25l[38;5;225myoutube.com/watch?v=wsh64rjnRas&t=40s[m[2;62H[K[2;25H[?25h[?25l[38;5;225moutube.com/watch?v=wsh64rjnRas&t=40s[m[2;61H[K[2;25H[?25h[?25l[38;5;225mutube.com/watch?v=wsh64rjnRas&t=40s[m[2;60H[K[2;25H[?25h[?25l[38;5;225mtube.com/watch?v=wsh64rjnRas&t=40s[m[2;59H[K[2;25H[?25h[?25l[38;5;225mube.com/watch?v=wsh64rjnRas&t=40s[m[2;58H[K[2;25H[?25h[?25l[38;5;225mbe.com/watch?v=wsh64rjnRas&t=40s[m[2;57H[K[2;25H[?25h[?25l[38;5;225me.com/watch?v=wsh64rjnRas&t=40s[m[2;56H[K[2;25H[?25h[?25l[38;5;225m.com/watch?v=wsh64rjnRas&t=40s[m[2;55H[K[2;25H[?25h[?25l[38;5;225mcom/watch?v=wsh64rjnRas&t=40s[m[2;54H[K[2;25H[?25h[?25l[38;5;225mom/watch?v=wsh64rjnRas&t=40s[m[2;53H[K[2;25H[?25h[?25l[38;5;225mm/watch?v=wsh64rjnRas&t=40s[m[2;52H[K[2;25H[?25h[?25l[38;5;225m/watch?v=wsh64rjnRas&t=40s[m[2;51H[K[2;25H[?25h[?25l[38;5;225mwatch?v=wsh64rjnRas&t=40s[m[2;50H[K[2;25H[?25h[?25l[38;5;225match?v=wsh64rjnRas&t=40s[m[2;49H[K[2;25H[?25h[?25l[38;5;225mtch?v=wsh64rjnRas&t=40s[m[2;48H[K[2;25H[?25h[?25l[38;5;225mch?v=wsh64rjnRas&t=40s[m[2;47H[K[2;25H[?25h[?25l[38;5;225mh?v=wsh64rjnRas&t=40s[m[2;46H[K[2;25H[?25h[?25l[38;5;225m?v=wsh64rjnRas&t=40s[m[2;45H[K[2;25H[?25h[?25l[38;5;225mv=wsh64rjnRas&t=40s[m[2;44H[K[2;25H[?25h[?25l[38;5;225m=wsh64rjnRas&t=40s[m[2;43H[K[2;25H[?25h[?25l[38;5;225mwsh64rjnRas&t=40s[m[2;42H[K[2;25H[?25h[?25l[38;5;225msh64rjnRas&t=40s[m[2;41H[K[2;25H[?25h[?25l[38;5;225mh64rjnRas&t=40s[m[2;40H[K[2;25H[?25h[?25l[38;5;225m64rjnRas&t=40s[m[2;39H[K[2;25H[?25h[?25l[38;5;225m4rjnRas&t=40s[m[2;38H[K[2;25H[?25h[?25l[38;5;225mrjnRas&t=40s[m[2;37H[K[2;25H[?25h[?25l[38;5;225mjnRas&t=40s[m[2;36H[K[2;25H[?25h[?25l[38;5;225mnRas&t=40s[m[2;35H[K[2;25H[?25h[?25l[38;5;225mRas&t=40s[m[2;34H[K[2;25H[?25h[?25l[38;5;225mas&t=40s[m[2;33H[K[2;25H[?25h[?25l[38;5;225ms&t=40s[m[2;32H[K[2;25H[?25h[?25l[38;5;225m&t=40s[m[2;31H[K[2;25H[?25h[?25l[38;5;225mt=40s[m[2;30H[K[2;25H[?25h[?25l[38;5;225m=40s[m[2;29H[K[2;25H[?25h[?25l[38;5;225m40s[m[2;28H[K[2;25H[?25h[?25l[38;5;225m0s[m[2;27H[K[2;25H[?25h[?25l[38;5;225ms[m[2;26H[K[2;25H[?25h[?25l[38;5;224m [m[2;25H[K[2;25H[?25h[12;1H[K[2;24H[?25l[12;113H^[[2;24H[12;113H  [2;25H[12;123H2,24[10CAll[2;24H[?25h[?25l[12;113H:[2;24H[12;113H[K[12;1H:[?2004h[?25hq![?25l[?2004l[23;2t[23;1t[12;1H[K[12;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;azeez@azeez-Inspiron-15-3567: ~/Documents/linux_tut[01;32mazeez@azeez-Inspiron-15-3567[00m:[01;34m~/Documents/linux_tut[00m$ vim README.md [K!!
+vim README.md 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"README.md" 8L, 405C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35m#[m[35m This is my jotter for Linux SysAdmin Course[m
+[35m####[m[35m The source link is https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m
+[35m####[m[35m In this repo, there are numerous files with practice linux command codes and outputs.[m
+
+
+[35m###[m[35m To view these codes and their output files[m
+[35m######[m[35m > Clone this repo to a linux system and[m
+[35m######[m[35m > Use cat command to view each one of these files that are prefixed with the word,  'prac'[m
+[94m~                                                                                                                                           [10;1H~                                                                                                                                           [11;1H~                                                                                                                                           [m[12;123H2,24[10CAll[2;24H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[38;5;224m#[m[38;5;225m This is my jotter for Linux SysAdmin Course[m
+[38;5;224m####[m[38;5;225m The source link is https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m
+[38;5;224m####[m[38;5;225m In this repo, there are numerous files with practice linux command codes and outputs.[m
+
+
+[38;5;224m###[m[38;5;225m To view these codes and their output files[m
+[38;5;224m######[m[38;5;225m > Clone this repo to a linux system and[m
+[38;5;224m######[m[38;5;225m > Use cat command to view each one of these files that are prefixed with the word,  'prac'[m
+[94m~                                                                                                                                           [10;1H~                                                                                                                                           [11;1H~                                                                                                                                           [m[12;123H2,24[10CAll"README.md" 8L, 405C[2;24H[?25h[?25l[12;113Hi[2;24H[12;113H [2;24H[12;1H[1m-- INSERT --[m[12;13H[K[12;123H2,24[10CAll[2;24H[?25h[?25l[12;126H5[2;25H[?25h[?25l[12;126H4[2;24H[?25h[?25l[38;5;225m https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;73H[K[12;126H3[2;23H[?25h[?25l[38;5;225m https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[2;72H[K[12;126H2[2;22H[?25h[?25l[38;5;225ma https://www.youtube.com/watch?v=wsh64rjnRas&t=40s[m[12;126H3[2;23H[?25h[?25l[38;5;225mr ht

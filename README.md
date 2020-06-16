@@ -1,5 +1,5 @@
 # This is my jotter for Linux SysAdmin Course
-#### The source link is https://www.youtube.com/watch?v=wsh64rjnRas&t=40s
+#### The source link are https://www.youtube.com/watch?v=wsh64rjnRas&t=40s and https://www.youtube.com/watch?v=wBp0Rb-ZJak&feature=youtu.be 
 #### In this repo, there are numerous files with practice linux command codes and outputs.
 
 
